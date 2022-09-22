@@ -3,7 +3,7 @@
 # Created By: Ioana Marinescu
 
 # Date: Sept. 21, 2022
-# calculates the area and perimeter of a circle with a radius of 3
+# calculates the area and circumference of a circle with a radius of 3
 
 
 import math
